@@ -23,7 +23,7 @@
 
 <br>
 
-![text](./images/oop-ex.png)
+![alt text](./images/oop-ex.png)
 
 <br>
 
