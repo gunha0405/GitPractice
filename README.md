@@ -9,3 +9,10 @@
  
 ## 운영 환경
 ....
+
+## 유스케이스 
+|[이미지](링크)
+
+<div align="center">
+<img src="#" alt="회원 테이블" style="zoom:76%;" align:"center" />
+</div>
