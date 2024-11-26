@@ -24,3 +24,7 @@
 <br>
 
 ![text](./images/oop-ex.png)
+
+<br>
+
+![text](./images/member_table.png)
