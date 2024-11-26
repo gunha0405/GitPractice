@@ -13,8 +13,14 @@
 ### 유스 케이스
 <image src="./images/use-case.png" />
 
+<br>
+
 ![alt text](image.png)
+
+<br>
 
 ![alt text](order.png)
 
-![alt text](/images/member_table.png)
+<br>
+
+![alt text](./images/member_table.png)
